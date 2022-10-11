@@ -1,6 +1,6 @@
 # Maliek News 
 
-https://www.google.co.za/amp/pwamp.vercel.app/java.html
+https://www.google.co.za/amp/pwamp.vercel.app/
 
 
 The AMP Browser is an open source web browser based on Chromium, which accelerates web browsing by automatically loading AMP web pages, saves bandwidth by enabling data compression, and respects privacy by blocking ads and tracking scripts.
