@@ -1,4 +1,4 @@
-# Maliek News (
+# Maliek News 
 
 https://www.google.co.za/amp/pwamp.vercel.app/java.html
 
